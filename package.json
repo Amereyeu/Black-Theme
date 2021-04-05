@@ -1,0 +1,40 @@
+{
+  "name": "blackplusplus",
+  "displayName": "Black++ Theme",
+  "description": "Simple Black Theme",
+  "publisher": "Amerey",
+  "author": {
+    "name": "Amerey"
+  },
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amereyeu/Black-Theme.git"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo.png",
+  "categories": [
+    "Themes"
+  ],
+    "keywords": [
+    "Black++ Theme",
+    "Dark Theme",
+    "Black Theme",
+    "black"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black++ Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blackplusplus.json"
+      }
+    ]
+  }
+}
