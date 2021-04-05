@@ -343,7 +343,12 @@
     {
       "scope": [
         "string.quoted.double.html",
-        "string.quoted.double.js"
+        "string.quoted.double.js",
+        "string.quoted.double.json",
+        "string.quoted.double.scss",
+        "string.quoted.double.env",
+        "string.other.link.title",
+        "markup.inline.raw.string"
       ],
       "settings": {
         "foreground": "#ecf1a9"

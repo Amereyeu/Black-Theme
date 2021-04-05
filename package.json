@@ -6,7 +6,7 @@
   "author": {
     "name": "Amerey"
   },
-  "version": "1.0.1",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -15,7 +15,7 @@
     "url": "https://github.com/Amereyeu/Black-Theme.git"
   },
   "galleryBanner": {
-    "color": "#09131b",
+    "color": "#000",
     "theme": "dark"
   },
   "icon": "images/icon/logo.png",

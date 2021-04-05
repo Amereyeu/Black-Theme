@@ -1,5 +1,7 @@
 # Black++ Theme for VS Code
 
+![Theme Preview](images/preview.gif)
+
 ## Installation
 
 1. Open the extensions sidebar
