@@ -343,6 +343,8 @@
     {
       "scope": [
         "string.quoted.double.html",
+        "string.quoted.single.tsx",
+        "string.quoted.double.tsx",
         "string.quoted.double.js",
         "string.quoted.double.json",
         "string.quoted.double.scss",
