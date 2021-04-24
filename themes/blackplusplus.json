@@ -83,7 +83,7 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#569cd6"
+        "foreground": "#00d8ff"
       }
     },
     {
@@ -322,6 +322,7 @@
       "scope": [
         "string.quoted.double.html",
         "string.quoted.single.tsx",
+        "string.quoted.single.ts",
         "string.quoted.double.tsx",
         "string.quoted.double.ts",
         "keyword.operator.type.annotation.ts",
@@ -338,7 +339,11 @@
       }
     },
     {
-      "scope": ["string.quoted.single.js"],
+      "scope": [
+        "string.quoted.single.js",
+        "entity.name.type.interface.ts",
+        "entity.name.type.class.tsx"
+      ],
       "settings": {
         "foreground": "#ffffff"
       }
@@ -512,7 +517,9 @@
         "variable",
         "meta.definition.variable.name",
         "support.variable",
-        "entity.name.variable"
+        "entity.name.variable",
+        "support.type.primitive.ts",
+        "support.type.primitive.tsx"
       ],
       "settings": {
         "foreground": "#9CDCFE"
@@ -524,6 +531,7 @@
         "variable.other.constant",
         "variable.other.enummember",
         "string.template.tsx",
+        "string.template.ts",
         "variable.object.property",
         "keyword.operator.type.annotation.tsx"
       ],
