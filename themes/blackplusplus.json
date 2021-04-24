@@ -24,7 +24,9 @@
     "activityBar.background": "#000000",
     "statusBar.background": "#000000",
     "titleBar.activeBackground": "#111111",
-    "panel.border": "#bebebe"
+    "panel.border": "#bebebe",
+    "editorWidget.border": "#ffee00",
+    "focusBorder": "#ffee00"
   },
   "tokenColors": [
     {
