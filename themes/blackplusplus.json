@@ -23,7 +23,8 @@
     "sideBar.background": "#000000",
     "activityBar.background": "#000000",
     "statusBar.background": "#000000",
-    "titleBar.activeBackground": "#111111"
+    "titleBar.activeBackground": "#111111",
+    "panel.border": "#bebebe"
   },
   "tokenColors": [
     {
